@@ -2,4 +2,4 @@ git is awesome
 2
 git_test2
 main2
-main3
+main3_2
